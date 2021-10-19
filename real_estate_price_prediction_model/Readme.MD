@@ -8,3 +8,5 @@ This data science project walks through a step by step procedure of how to build
 3. Matplotlib for data visualization
 4. Sklearn for model building
 5. Google Colab as IDE
+
+Thanks to codebasics to help me throughout the project.
